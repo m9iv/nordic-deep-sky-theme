@@ -1,5 +1,4 @@
 # nordic-deep-sky-theme
 Custom theme for Blender
 
-![Screenshot]([screenshot.png](https://media.githubusercontent.com/media/m9iv/nordic-deep-sky-theme/main/NordicDeepSkyTheme_Screen.png))
-
+![](https://github.com/m9iv/nordic-deep-sky-theme/blob/39e535bf3fce4365d5dffe6f42151915d10a86bf/NordicDeepSkyTheme_Screen.png)
