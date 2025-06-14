@@ -14,4 +14,8 @@ For example (for Windows):
 
 `C:\Program Files\Blender Foundation\Blender 4.3\4.3\scripts\presets\interface_theme\`
 
-2. Then you should open Blender, go to Edit > Preferences -> Themes. And you'll see the theme NordicDeepSkyTheme in the list.
+2. Then you should open Blender, go to Edit > Preferences -> Themes. And you'll see the theme NordicDeepSkyTheme in a list of presets.
+
+![](https://github.com/m9iv/nordic-deep-sky-theme/blob/main/UpdatedThemeList.png)
+
+That's all! Thanks for trying out my theme. Have fun creating 😉
